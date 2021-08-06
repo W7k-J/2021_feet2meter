@@ -74,8 +74,4 @@ convert_btnF.grid(column=0, row=4, padx=15)
 clear_btn = Button(window, text="Clear", bg="red", fg="white", width=14, command=clear)
 clear_btn.grid(column=1, row=3)
 
-
-
 window.mainloop()
-
-
